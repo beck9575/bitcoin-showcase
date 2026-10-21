@@ -23,3 +23,6 @@ Python、Streamlit、Multiprocessing、Pandas、NumPy、Git。
 ## 操作畫面與實驗結果
 
 後續補上 Dashboard 截圖、操作影片與回測結果。
+
+<img width="2549" height="1245" alt="image" src="https://github.com/user-attachments/assets/f77e298e-46f3-4a3e-b886-a28c3d666369" />
+
